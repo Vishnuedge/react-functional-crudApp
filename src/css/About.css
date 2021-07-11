@@ -1,0 +1,32 @@
+.image_border {
+  border: 3px solid black;
+}
+.contact {
+  border: 2px solid black;
+  margin: 2rem;
+  background-color: #fff;
+  border-radius: 1rem;
+  width: 90%;
+}
+
+.contact:hover {
+  background-color: #000;
+  color: #fff;
+}
+.flex-box {
+  margin-top: 2rem;
+  padding-left: 10rem;
+}
+.name {
+  font-weight: bolder;
+}
+.parent-hover:hover > .hover-green {
+  color: green;
+}
+.parent-hover:hover {
+  text-decoration: underline;
+  font-weight: bolder;
+}
+.skill-border {
+  border: 3px solid black;
+}

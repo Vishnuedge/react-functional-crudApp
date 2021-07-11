@@ -1,0 +1,11 @@
+body {
+  background-color: grey;
+}
+.nav-icon {
+  font-size: 3rem;
+  margin-right: 1rem;
+}
+
+.crud_app {
+  margin-top: 5rem;
+}
